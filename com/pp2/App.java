@@ -45,7 +45,7 @@ public class App {
 	public static void main(String[] args) {
 
 		process();
-		System.out.println(counter);
+		System.out.println("EL CONTADOR TOTAL ES: " +counter);
 		
 	}
 }
